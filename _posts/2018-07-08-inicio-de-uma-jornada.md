@@ -2,7 +2,7 @@
 layout: post
 title: "Início de uma jornada"
 date: 2018-07-08
-excerpt: "Post inicial."
+excerpt: "Este será um espaço onde pretendo apresentar um pouco do meu trabalho e das coisas que são do meu interesse."
 tags: [início]
 comments: true
 ---
