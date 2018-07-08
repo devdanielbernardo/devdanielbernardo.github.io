@@ -1,7 +1,7 @@
 # Site
 title:              Daniel Bernardo
 bio:                'Desenvolvimento de software de valor!'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Desenvolvimento de software de valor!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ disqus_shortname:   danielbernardo
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              daniel@danielbernardo.com
 #twitter:            username
 facebook:           db.danielbernardo
 github-url:         devdanielbernardo
