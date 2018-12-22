@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Início de uma jornada"
-date: 2018-07-08
-excerpt: "Este será um espaço onde pretendo apresentar um pouco do meu trabalho e das coisas que são do meu interesse."
+title: "Quem é Daniel Bernardo"
+date: 2018-12-22
+excerpt: "Um cara fascinado pelo universo Data Science e que gosta muito de desenvolver softwares inteligentes que agregam valor às pessoas!"
 tags: [início]
 comments: true
 ---
